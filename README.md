@@ -48,4 +48,7 @@
     * [cite_start]**30 dB:** Pristine image recovery across all channels[cite: 52, 60].
 * [cite_start]**Constellation Analysis:** LabVIEW simulations confirmed distinct clustering at SNRs > 18 dB, validating the logic despite hardware noise limitations[cite: 80, 81].
 
-## 📂 Repository Structure
+  
+## 📚 References
+* [cite_start]J. G. Proakis and M. Salehi, *Digital Communications*, 5th ed., McGraw-Hill, 2008[cite: 85].
+* [cite_start]MathWorks, *Communications Toolbox Documentation*[cite: 85].
